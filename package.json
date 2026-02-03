@@ -2,13 +2,20 @@
   "name": "noise_engine_ui",
   "version": "1.0.0",
   "main": "main.js",
+  "description": "Real-time AI-powered noise cancellation app for macOS using DeepFilterNet3",
   "scripts": {
     "start": "electron ."
   },
-  "keywords": [],
+  "keywords": [
+    "noise-cancellation",
+    "audio",
+    "electron",
+    "deepfilternet",
+    "tray-app",
+    "macos"
+  ],
   "author": "",
   "license": "ISC",
-  "description": "",
   "devDependencies": {
     "electron": "^40.0.0"
   }
